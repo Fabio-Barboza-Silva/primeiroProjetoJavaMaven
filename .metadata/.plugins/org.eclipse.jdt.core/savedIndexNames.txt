@@ -1,1 +1,0 @@
-INDEX VERSION 1.134+/home/linuxnotebook/Área de Trabalho/Programacao/Java/workspace-spring-tool-suite-4-4.25.0.RELEASE/.metadata/.plugins/org.eclipse.jdt.core
